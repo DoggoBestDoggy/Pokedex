@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color darkred
+color green
+color grey
+color or
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+color whitegrey
+drawable bulbizarre
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable pokedexic
+id ivPokemon
+id rvPokemons
+id tvName
+id tvNumber
+id tvType
+id tvType1
+layout activity_main
+layout pokemon_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Pokedex
+xml backup_rules
+xml data_extraction_rules
